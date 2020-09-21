@@ -1,71 +1,71 @@
 .pageBanner {
-    position: relative;
-    left: 15%;
-    width: 70%;
-    height: 80px;
-    background-color: #5c5b5b;
-    text-align: center;
-    font-size: 60px;
-    color: whitesmoke;
-    border-radius: 15px 15px 5px 5px;
-    padding-top: .5%;
+  position: relative;
+  left: 15%;
+  width: 70%;
+  height: 80px;
+  background-color: #5c5b5b;
+  text-align: center;
+  font-size: 60px;
+  color: whitesmoke;
+  border-radius: 15px 15px 5px 5px;
+  padding-top: 0.5%;
 }
 
 .pageFooter {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    left: 50%;
-    margin-left: -155px;
-    bottom: 5%;
-    width: 275px;
-    text-align: center;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 50%;
+  margin-left: -155px;
+  bottom: 5%;
+  width: 275px;
+  text-align: center;
 }
 
 #playerBanner {
-    position: relative;
-    left: 15%;
-    width: 70%;
-    height: 25px;
-    display: grid;
-    text-align: center;
-    font-size: 17px;
-    padding-top: 5px;
-    margin-top: 2px;
-    margin-bottom: 1px;
-    grid-template-columns: 1fr 1fr;
-    border-radius: 5px 5px 5px 5px;
-    background-color: #765d5d;
-    color:whitesmoke;
+  position: relative;
+  left: 15%;
+  width: 70%;
+  height: 25px;
+  display: grid;
+  text-align: center;
+  font-size: 17px;
+  padding-top: 5px;
+  margin-top: 2px;
+  margin-bottom: 1px;
+  grid-template-columns: 1fr 1fr;
+  border-radius: 5px 5px 5px 5px;
+  background-color: #765d5d;
+  color: whitesmoke;
 }
 
 #gameArray {
-    justify-content: center;
-    padding-top: 5px;
-    margin-top: 2px;
-    margin-bottom: 1px;
-    display: grid;
-    grid-template-columns: repeat(3, 150px);
-    grid-template-rows: repeat(3, 150px);
-    border-radius: 5px 5px 5px 5px;
-    border-color: #5c5b5b;
-    color: #5c5b5b;
+  justify-content: center;
+  padding-top: 5px;
+  margin-top: 2px;
+  margin-bottom: 1px;
+  display: grid;
+  grid-template-columns: repeat(3, 150px);
+  grid-template-rows: repeat(3, 150px);
+  border-radius: 5px 5px 5px 5px;
+  border-color: #5c5b5b;
+  color: #5c5b5b;
 }
 
 .boardDiv {
-    text-align: center;
-    border-style: solid;
-    font-size: 120px;
-    margin: 1px;
+  text-align: center;
+  border-style: solid;
+  font-size: 120px;
+  margin: 1px;
 }
 
-button#startButton {
-    height: 30px;
-    width: 140px;
-    background-color: #765d5d;
-    color: whitesmoke;
-    font-size: 15px;
-    border-style: none; 
-    border-radius: 5px;
-    margin-left: 30px;
+button#resetButton {
+  height: 30px;
+  width: 140px;
+  background-color: #765d5d;
+  color: whitesmoke;
+  font-size: 15px;
+  border-style: none;
+  border-radius: 5px;
+  margin-left: 30px;
 }
