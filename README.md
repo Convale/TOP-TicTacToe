@@ -101,7 +101,7 @@ Distributed under the MIT License. See [`LICENSE`](https://github.com/Convale/TO
 [issues-shield]: https://img.shields.io/github/issues/Convale/TOP-TicTacToe
 [issues-url]: https://github.com/Convale/TOP-TicTacToe/issues
 [license-shield]: https://img.shields.io/github/license/Convale/TOP-TicTacToe
-[license-url]: https://github.com/Convale/TOP-TicTacToe/blob/master/LICENSE
+[license-url]: https://img.shields.io/github/license/Convale/TOP-TicTacToe
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/payneshaun
 [product-screenshot]: tictactoe.png
