@@ -16,7 +16,7 @@
    A fun basic game of TicTacToe you can play with a friend!
     <br />
     <br />
-    <a href="hhttps://convale.github.io/TOP-TicTacToe/">View Demo</a>
+    <a href="https://convale.github.io/TOP-TicTacToe/">View Demo</a>
     ·
     <a href="https://github.com/Convale/TOP-TicTacToe/issues">Report Bug</a>
     ·
